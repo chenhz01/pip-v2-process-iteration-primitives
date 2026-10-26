@@ -1,0 +1,9 @@
+{
+  "id": "L84",
+  "cluster": "c22 上下文经济学",
+  "name_zh": "相关性邻接度",
+  "lines": 38,
+  "deps": "stdlib-only",
+  "source": "HN 实战痛点：中部剪枝作废前缀缓存（所有人都想做、都因此放弃）；上下文太多太少都坏；相关信息散落各处",
+  "published": true
+}

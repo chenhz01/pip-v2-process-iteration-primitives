@@ -1,0 +1,9 @@
+{
+  "id": "L99",
+  "cluster": "c27 确定性分工",
+  "name_zh": "确定性复验",
+  "lines": 50,
+  "deps": "stdlib-only",
+  "source": "HN（State of Context Engineering 讨论）：每步都该问\"这该进代码还是该给模型\"",
+  "published": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "L106",
+  "cluster": "c29",
+  "name_zh": "结果新鲜度",
+  "lines": 32,
+  "deps": "stdlib-only",
+  "source": "PIP v2 cards c29 工具语义 · L106",
+  "published": true
+}

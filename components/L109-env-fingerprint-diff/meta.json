@@ -1,0 +1,9 @@
+{
+  "id": "L109",
+  "cluster": "c30",
+  "name_zh": "环境指纹对比",
+  "lines": 38,
+  "deps": "stdlib-only",
+  "source": "PIP v2 cards c30 依赖与环境 · L109",
+  "published": true
+}

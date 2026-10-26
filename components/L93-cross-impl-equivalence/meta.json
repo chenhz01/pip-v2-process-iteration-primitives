@@ -1,0 +1,9 @@
+{
+  "id": "L93",
+  "cluster": "c25 修复伴随件",
+  "name_zh": "跨实现等价",
+  "lines": 53,
+  "deps": "stdlib-only",
+  "source": "php2shell 系列把「漏洞+检测规则」成对发布；BeautifulRust：移植必须先搬测试",
+  "published": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "L70",
+  "cluster": "c18",
+  "name_zh": "恢复成本估计",
+  "lines": 37,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c18 · 断点不是免费的：重算 token/时间 vs 存档大小，决定值不值得断",
+  "published": true
+}

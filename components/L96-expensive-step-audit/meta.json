@@ -1,0 +1,9 @@
+{
+  "id": "L96",
+  "cluster": "c26 撤销与破坏面",
+  "name_zh": "昂贵步骤前置审计",
+  "lines": 52,
+  "deps": "stdlib-only",
+  "source": "v1 L39 只查\"回滚就绪\"（有没有快照），本簇查\"撤销路径唯一且实测过\"；配额余量闸源自 harp",
+  "published": true
+}

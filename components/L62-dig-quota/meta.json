@@ -1,0 +1,9 @@
+{
+  "id": "L62",
+  "cluster": "c16 采样与分诊",
+  "name_zh": "深挖配额",
+  "lines": 37,
+  "deps": "stdlib-only",
+  "source": "`temperature policy llm` 放宽复查后对口≈0（真空白）；HN：评测成本已达 agent 本体 5 倍（Tessary，1M traces 案例）",
+  "published": true
+}

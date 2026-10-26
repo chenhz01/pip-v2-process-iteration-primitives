@@ -1,0 +1,9 @@
+{
+  "id": "L107",
+  "cluster": "c29",
+  "name_zh": "重试退避策略",
+  "lines": 36,
+  "deps": "stdlib-only",
+  "source": "PIP v2 cards c29 工具语义 · L107",
+  "published": true
+}

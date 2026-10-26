@@ -1,0 +1,9 @@
+{
+  "id": "L100",
+  "cluster": "c28 认知诚实",
+  "name_zh": "无源数字拦截",
+  "lines": 52,
+  "deps": "stdlib-only",
+  "source": "an internal five-gate judge module (10 self-checks)；an anti-sycophancy protocol L4 异议四件套",
+  "published": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "L90",
+  "cluster": "c24 事前准入",
+  "name_zh": "廉价试错阶梯",
+  "lines": 36,
+  "deps": "stdlib-only",
+  "source": "day-trader-skill 一周 1789 星的核心直觉：止损/目标必须进场前定好，否则不许进场",
+  "published": true
+}

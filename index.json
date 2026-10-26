@@ -1,0 +1,387 @@
+[
+  {
+    "id": "L100",
+    "cluster": "c28 认知诚实",
+    "name": "无源数字拦截",
+    "dir": "L100-unsourced-number-gate",
+    "loc": 52
+  },
+  {
+    "id": "L101",
+    "cluster": "c28 认知诚实",
+    "name": "绝对化红灯",
+    "dir": "L101-absolutization-redlight",
+    "loc": 45
+  },
+  {
+    "id": "L102",
+    "cluster": "c28 认知诚实",
+    "name": "负对照强制",
+    "dir": "L102-negative-control-mandatory",
+    "loc": 48
+  },
+  {
+    "id": "L103",
+    "cluster": "c28 认知诚实",
+    "name": "可证伪化",
+    "dir": "L103-falsifiability-check",
+    "loc": 38
+  },
+  {
+    "id": "L104",
+    "cluster": "c29 工具语义",
+    "name": "契约漂移检测",
+    "dir": "L104-tool-contract-drift",
+    "loc": 61
+  },
+  {
+    "id": "L105",
+    "cluster": "c29 工具语义",
+    "name": "超时语义",
+    "dir": "L105-timeout-semantics",
+    "loc": 36
+  },
+  {
+    "id": "L106",
+    "cluster": "c29 工具语义",
+    "name": "结果新鲜度",
+    "dir": "L106-result-freshness",
+    "loc": 32
+  },
+  {
+    "id": "L107",
+    "cluster": "c29 工具语义",
+    "name": "重试退避策略",
+    "dir": "L107-retry-backoff-policy",
+    "loc": 36
+  },
+  {
+    "id": "L108",
+    "cluster": "c30 依赖与环境",
+    "name": "依赖漂移警报",
+    "dir": "L108-dependency-drift-alert",
+    "loc": 42
+  },
+  {
+    "id": "L109",
+    "cluster": "c30 依赖与环境",
+    "name": "环境指纹对比",
+    "dir": "L109-env-fingerprint-diff",
+    "loc": 38
+  },
+  {
+    "id": "L110",
+    "cluster": "c30 依赖与环境",
+    "name": "对外敏感面扫描",
+    "dir": "L110-external-sensitive-scan",
+    "loc": 44
+  },
+  {
+    "id": "L56",
+    "cluster": "c15 循环病理",
+    "name": "活锁熵检",
+    "dir": "L56-livelock-entropy",
+    "loc": 52
+  },
+  {
+    "id": "L57",
+    "cluster": "c15 循环病理",
+    "name": "死锁等待图",
+    "dir": "L57-deadlock-wait-graph",
+    "loc": 56
+  },
+  {
+    "id": "L58",
+    "cluster": "c15 循环病理",
+    "name": "振荡翻转检测",
+    "dir": "L58-oscillation-flip",
+    "loc": 44
+  },
+  {
+    "id": "L59",
+    "cluster": "c15 循环病理",
+    "name": "循环预算熔断",
+    "dir": "L59-loop-budget-halt",
+    "loc": 48
+  },
+  {
+    "id": "L60",
+    "cluster": "c16 采样与分诊",
+    "name": "每步档位策略",
+    "dir": "L60-step-gear-policy",
+    "loc": 42
+  },
+  {
+    "id": "L61",
+    "cluster": "c16 采样与分诊",
+    "name": "廉价预筛",
+    "dir": "L61-cheap-prefilter",
+    "loc": 46
+  },
+  {
+    "id": "L62",
+    "cluster": "c16 采样与分诊",
+    "name": "深挖配额",
+    "dir": "L62-dig-quota",
+    "loc": 37
+  },
+  {
+    "id": "L63",
+    "cluster": "c16 采样与分诊",
+    "name": "评测成本比",
+    "dir": "L63-eval-cost-ratio",
+    "loc": 43
+  },
+  {
+    "id": "L64",
+    "cluster": "c17 幂等与重放",
+    "name": "幂等键",
+    "dir": "L64-idempotency-key",
+    "loc": 55
+  },
+  {
+    "id": "L65",
+    "cluster": "c17 幂等与重放",
+    "name": "恰好一次写",
+    "dir": "L65-write-once-commit",
+    "loc": 56
+  },
+  {
+    "id": "L66",
+    "cluster": "c17 幂等与重放",
+    "name": "重放等价",
+    "dir": "L66-replay-equivalence",
+    "loc": 49
+  },
+  {
+    "id": "L67",
+    "cluster": "c17 幂等与重放",
+    "name": "副作用清单前置",
+    "dir": "L67-side-effect-manifest",
+    "loc": 45
+  },
+  {
+    "id": "L68",
+    "cluster": "c18 断点与恢复",
+    "name": "冷启动恢复测试",
+    "dir": "L68-cold-start-resume",
+    "loc": 38
+  },
+  {
+    "id": "L69",
+    "cluster": "c18 断点与恢复",
+    "name": "状态完整性断言",
+    "dir": "L69-state-integrity",
+    "loc": 38
+  },
+  {
+    "id": "L70",
+    "cluster": "c18 断点与恢复",
+    "name": "恢复成本估计",
+    "dir": "L70-resume-cost-estimate",
+    "loc": 37
+  },
+  {
+    "id": "L71",
+    "cluster": "c18 断点与恢复",
+    "name": "断点新鲜度",
+    "dir": "L71-checkpoint-freshness",
+    "loc": 45
+  },
+  {
+    "id": "L72",
+    "cluster": "c19 代理间交接",
+    "name": "交接协议完整性",
+    "dir": "L72-handoff-protocol-check",
+    "loc": 43
+  },
+  {
+    "id": "L73",
+    "cluster": "c19 代理间交接",
+    "name": "注意力分诊",
+    "dir": "L73-attention-triage",
+    "loc": 43
+  },
+  {
+    "id": "L74",
+    "cluster": "c19 代理间交接",
+    "name": "并发写冲突闸",
+    "dir": "L74-concurrent-write-gate",
+    "loc": 53
+  },
+  {
+    "id": "L75",
+    "cluster": "c20 评审器健康",
+    "name": "评审器漂移门",
+    "dir": "L75-judge-drift-gate",
+    "loc": 59
+  },
+  {
+    "id": "L76",
+    "cluster": "c20 评审器健康",
+    "name": "双评审分歧",
+    "dir": "L76-dual-judge-split",
+    "loc": 48
+  },
+  {
+    "id": "L77",
+    "cluster": "c20 评审器健康",
+    "name": "随机对照显著性",
+    "dir": "L77-random-control-significance",
+    "loc": 45
+  },
+  {
+    "id": "L78",
+    "cluster": "c20 评审器健康",
+    "name": "校准体检",
+    "dir": "L78-calibration-check",
+    "loc": 57
+  },
+  {
+    "id": "L79",
+    "cluster": "c21 提示词回归",
+    "name": "快照回归",
+    "dir": "L79-prompt-snapshot-regression",
+    "loc": 38
+  },
+  {
+    "id": "L80",
+    "cluster": "c21 提示词回归",
+    "name": "行为漂移门",
+    "dir": "L80-behavior-drift-gate",
+    "loc": 44
+  },
+  {
+    "id": "L81",
+    "cluster": "c21 提示词回归",
+    "name": "规则引用判定",
+    "dir": "L81-rule-cited-verdict",
+    "loc": 30
+  },
+  {
+    "id": "L82",
+    "cluster": "c22 上下文经济学",
+    "name": "缓存感知剪枝",
+    "dir": "L82-cache-aware-prune",
+    "loc": 34
+  },
+  {
+    "id": "L83",
+    "cluster": "c22 上下文经济学",
+    "name": "双阈值充足度",
+    "dir": "L83-context-dual-threshold",
+    "loc": 37
+  },
+  {
+    "id": "L84",
+    "cluster": "c22 上下文经济学",
+    "name": "相关性邻接度",
+    "dir": "L84-relevance-adjacency",
+    "loc": 38
+  },
+  {
+    "id": "L85",
+    "cluster": "c23 记忆写入闸",
+    "name": "矛盾裁决门",
+    "dir": "L85-memory-contradiction-gate",
+    "loc": 47
+  },
+  {
+    "id": "L86",
+    "cluster": "c23 记忆写入闸",
+    "name": "信用衰减回摊",
+    "dir": "L86-credit-decay-memory",
+    "loc": 31
+  },
+  {
+    "id": "L87",
+    "cluster": "c23 记忆写入闸",
+    "name": "跨会话陈旧引用",
+    "dir": "L87-stale-cross-session-ref",
+    "loc": 59
+  },
+  {
+    "id": "L88",
+    "cluster": "c24 事前准入",
+    "name": "退出判据先行",
+    "dir": "L88-exit-criteria-first",
+    "loc": 32
+  },
+  {
+    "id": "L89",
+    "cluster": "c24 事前准入",
+    "name": "重放预演",
+    "dir": "L89-replay-premortem",
+    "loc": 40
+  },
+  {
+    "id": "L90",
+    "cluster": "c24 事前准入",
+    "name": "廉价试错阶梯",
+    "dir": "L90-cheap-trial-ladder",
+    "loc": 36
+  },
+  {
+    "id": "L91",
+    "cluster": "c25 修复伴随件",
+    "name": "检测件伴随",
+    "dir": "L91-paired-detector",
+    "loc": 57
+  },
+  {
+    "id": "L92",
+    "cluster": "c25 修复伴随件",
+    "name": "移植等价性",
+    "dir": "L92-port-equivalence",
+    "loc": 47
+  },
+  {
+    "id": "L93",
+    "cluster": "c25 修复伴随件",
+    "name": "跨实现等价",
+    "dir": "L93-cross-impl-equivalence",
+    "loc": 53
+  },
+  {
+    "id": "L94",
+    "cluster": "c26 撤销与破坏面",
+    "name": "撤销唯一性实测",
+    "dir": "L94-undo-uniqueness-test",
+    "loc": 47
+  },
+  {
+    "id": "L95",
+    "cluster": "c26 撤销与破坏面",
+    "name": "配额余量闸",
+    "dir": "L95-quota-headroom-gate",
+    "loc": 48
+  },
+  {
+    "id": "L96",
+    "cluster": "c26 撤销与破坏面",
+    "name": "昂贵步骤前置审计",
+    "dir": "L96-expensive-step-audit",
+    "loc": 52
+  },
+  {
+    "id": "L97",
+    "cluster": "c27 确定性分工",
+    "name": "可确定化检测",
+    "dir": "L97-determinizable-detect",
+    "loc": 43
+  },
+  {
+    "id": "L98",
+    "cluster": "c27 确定性分工",
+    "name": "分工账本",
+    "dir": "L98-division-ledger",
+    "loc": 55
+  },
+  {
+    "id": "L99",
+    "cluster": "c27 确定性分工",
+    "name": "确定性复验",
+    "dir": "L99-determinism-recheck",
+    "loc": 50
+  }
+]

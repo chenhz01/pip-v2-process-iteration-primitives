@@ -1,0 +1,9 @@
+{
+  "id": "L69",
+  "cluster": "c18",
+  "name_zh": "状态完整性断言",
+  "lines": 38,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c18 · NVIDIA flare：分支后状态完整性",
+  "published": true
+}

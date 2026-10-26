@@ -1,0 +1,22 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Spec name : PIP-2.0 (Process Iteration Primitives, spec v2.0) — pip-v2-process-iteration-primitives
+Scope     : 全部 55 件第二代迭代过程原语 / all generation-2 primitives
+Author    : chenhz01
+
+Legal code  : https://creativecommons.org/licenses/by/4.0/legalcode
+Human summary: https://creativecommons.org/licenses/by/4.0/
+
+Attribution format required
+---------------------------
+When you state that something "conforms to / is compatible with / passes / implements PIP-2.0",
+you must keep:
+
+    PIP-2.0 · pip-v2-process-iteration-primitives © 2026 chenhz01, CC BY 4.0
+    spec home: https://github.com/chenhz01/pip-v2-process-iteration-primitives
+
+If you make no such claim, you may use, modify, commercialise, close-source or rename
+this work freely, with no attribution obligation.
+
+Note: the code layer is licensed under Apache-2.0 independently (see LICENSE).
+The two layers cover implementation and specification respectively and do not conflict.

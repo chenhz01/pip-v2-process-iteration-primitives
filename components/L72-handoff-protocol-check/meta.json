@@ -1,0 +1,9 @@
+{
+  "id": "L72",
+  "cluster": "c19",
+  "name_zh": "交接协议完整性",
+  "lines": 42,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c19 · agent handoff protocol 236 仓半满（协议层 vs v1 L33 内容层，正交）",
+  "published": true
+}

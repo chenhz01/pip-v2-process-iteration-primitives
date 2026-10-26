@@ -1,0 +1,9 @@
+{
+  "id": "L59",
+  "cluster": "c15 循环病理",
+  "name_zh": "循环预算熔断",
+  "lines": 48,
+  "deps": "stdlib-only",
+  "source": "`agent loop deadlock` 全 GitHub 仅 11 仓、对口仅 2 个且互为复制品",
+  "published": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "L108",
+  "cluster": "c30",
+  "name_zh": "依赖漂移警报",
+  "lines": 42,
+  "deps": "stdlib-only",
+  "source": "PIP v2 cards c30 依赖与环境 · L108",
+  "published": true
+}

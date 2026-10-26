@@ -1,0 +1,9 @@
+{
+  "id": "L78",
+  "cluster": "c20",
+  "name_zh": "校准体检",
+  "lines": 57,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c20 · confidence calibration 偏学术、工程原语缺位；ECE 简化版+过信检测",
+  "published": true
+}

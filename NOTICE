@@ -1,0 +1,17 @@
+pip-v2-process-iteration-primitives (PIP-2.0)
+Copyright 2026 chenhz01
+
+本作品采用双许可 / Dual-licensed:
+- 代码 / implementation : Apache License 2.0 (see LICENSE)
+- 规范 / specification  : Creative Commons Attribution 4.0 International, CC BY 4.0 (see LICENSE-SPEC)
+
+范围 / Scope: 全部 55 件第二代迭代过程原语
+
+署名触发条件 / Attribution trigger:
+任何对外表述出现「符合 / 通过 / 兼容 / implements / conforms to / certified / PIP-2.0 / 满足 PIP-2.0 规范」
+等语义，即须署名：规范名与版本（PIP-2.0）、仓库标识（pip-v2-process-iteration-primitives）、作者（chenhz01）及规范链接 https://github.com/chenhz01/pip-v2-process-iteration-primitives
+Clause: any public claim of conformance to PIP-2.0 must carry the spec name+version, this repository id,
+the author, and the spec link above.
+
+未作上述声明者，可自由实现、商用、闭源、改名，无需署名。
+No claim, no obligation: implement, commercialise, close-source or rename freely.

@@ -1,0 +1,9 @@
+{
+  "id": "L65",
+  "cluster": "c17 幂等与重放",
+  "name_zh": "恰好一次写",
+  "lines": 56,
+  "deps": "stdlib-only",
+  "source": "`tool call idempotency` 全 GitHub 仅 46 仓且 star 全为 0（萌芽期，窗口最开）",
+  "published": true
+}

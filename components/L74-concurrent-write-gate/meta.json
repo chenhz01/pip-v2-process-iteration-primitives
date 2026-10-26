@@ -1,0 +1,9 @@
+{
+  "id": "L74",
+  "cluster": "c19",
+  "name_zh": "并发写冲突闸",
+  "lines": 53,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c19 · 多 agent 对同一资源的写意图重叠（资源路径+时间窗）检测",
+  "published": true
+}

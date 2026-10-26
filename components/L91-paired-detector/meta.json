@@ -1,0 +1,9 @@
+{
+  "id": "L91",
+  "cluster": "c25 修复伴随件",
+  "name_zh": "检测件伴随",
+  "lines": 57,
+  "deps": "stdlib-only",
+  "source": "php2shell 系列把「漏洞+检测规则」成对发布；BeautifulRust：移植必须先搬测试",
+  "published": true
+}

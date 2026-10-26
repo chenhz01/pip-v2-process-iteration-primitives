@@ -1,0 +1,9 @@
+{
+  "id": "L67",
+  "cluster": "c17 幂等与重放",
+  "name_zh": "副作用清单前置",
+  "lines": 0,
+  "deps": "stdlib-only",
+  "source": "`tool call idempotency` 全 GitHub 仅 46 仓且 star 全为 0（萌芽期，窗口最开）",
+  "published": true
+}

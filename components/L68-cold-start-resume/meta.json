@@ -1,0 +1,9 @@
+{
+  "id": "L68",
+  "cluster": "c18",
+  "name_zh": "冷启动恢复测试",
+  "lines": 38,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c18 · agent checkpoint resume 225 仓半满但对口少；HN 亲测痛点：checkpoint 缺意图与计划，冷启动恢复不了",
+  "published": true
+}

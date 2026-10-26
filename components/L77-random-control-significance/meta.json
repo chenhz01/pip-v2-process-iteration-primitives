@@ -1,0 +1,9 @@
+{
+  "id": "L77",
+  "cluster": "c20",
+  "name_zh": "随机对照显著性",
+  "lines": 45,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c20 · neuron-explorer：结论必须对 256 随机对照做百分位排名，<95 位不显著",
+  "published": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "L71",
+  "cluster": "c18",
+  "name_zh": "断点新鲜度",
+  "lines": 45,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c18 · 老存档接着用会翻车：环境指纹（依赖版本/文件哈希）恢复前比对",
+  "published": true
+}

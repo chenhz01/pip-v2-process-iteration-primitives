@@ -1,0 +1,9 @@
+{
+  "id": "L85",
+  "cluster": "c23 记忆写入闸",
+  "name_zh": "矛盾裁决门",
+  "lines": 47,
+  "deps": "stdlib-only",
+  "source": "agent memory decay 半满但产品化临近（需差异化）；HN 多人独立指出：旧记忆不删只覆盖、模型随手挑最近的，是最先坏掉的环节",
+  "published": true
+}

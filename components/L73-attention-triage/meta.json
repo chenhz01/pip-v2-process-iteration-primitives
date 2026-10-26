@@ -1,0 +1,9 @@
+{
+  "id": "L73",
+  "cluster": "c19",
+  "name_zh": "注意力分诊",
+  "lines": 43,
+  "deps": "stdlib-only",
+  "source": "CARDS_v2.md c19 · 多代理优先级排程（vs v1 L36 打断成本，正交）",
+  "published": true
+}

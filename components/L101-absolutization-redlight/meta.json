@@ -1,0 +1,9 @@
+{
+  "id": "L101",
+  "cluster": "c28 认知诚实",
+  "name_zh": "绝对化红灯",
+  "lines": 45,
+  "deps": "stdlib-only",
+  "source": "an internal five-gate judge module (10 self-checks)；an anti-sycophancy protocol L4 异议四件套",
+  "published": true
+}
